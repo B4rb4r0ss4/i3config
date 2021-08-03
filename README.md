@@ -12,7 +12,7 @@ My current i3wm setup based on Nord theme (https://www.nordtheme.com/)
  - Dunst for notifications, my own config
  - feh for wallpapers (I use 2 monitors so, you can change config for monitors in # Monitors and in #UI)
  - Picom (compositor)
- - Allacritty (terminal)
+ - Alacritty (terminal)
  - flameshot (nice tool for screenshots)
  - fonts (Deja vu sans, Firra Code)
 

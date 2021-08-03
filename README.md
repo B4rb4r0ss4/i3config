@@ -13,6 +13,7 @@ My current i3wm setup based on Nord theme
  - fish shell 
  - starship
  - flameshot (nice tool for screenshots)
+ - fonts (Deja vu sans, Firra Code)
 
 
  

@@ -12,6 +12,7 @@ My current i3wm setup based on Nord theme
  - Allacritty (terminal)
  - fish shell 
  - starship
+ - flameshot (nice tool for screenshots)
 
 
  

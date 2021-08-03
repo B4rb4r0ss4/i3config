@@ -191,7 +191,7 @@ bindsym $mod+Print exec flameshot gui
 bindsym $mod+b exec firefox
 bindsym $mod+n exec nemo
 
-# Emacs > vim 
+# Rember emacs > vim 
 #  ,           , 
 # /             \ 
 #((__-^^-,-^^-__)) 
@@ -201,4 +201,4 @@ bindsym $mod+n exec nemo
 #      ): :( 
 #      :o_o: 
 #       "-"
-# 
+

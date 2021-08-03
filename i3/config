@@ -196,8 +196,8 @@ exec_always xrandr --output VGA-1 --auto --right-of DP-1
 
 # UI
 exec_always feh --bg-fill ~/.config/wallpapers/wallpaper1.jpg --bg-fill ~/.config/wallpapers/wallpaper2.png
-exec bash ./polybar/cuts/scripts/styles.sh --mode8
-exec bash ./polybar/forest/scripts/styles.sh --nord
+exec bash ~/.config/polybar/cuts/scripts/styles.sh --mode8
+exec bash ~/.config/polybar/forest/scripts/styles.sh --nord
 exec_always picom --config ~/.config/picom/picom.conf
 exec_always ~/.config/polybar/launch.sh --forest
 

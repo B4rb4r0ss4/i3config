@@ -10,8 +10,6 @@ My current i3wm setup based on Nord theme
  - feh for wallpapers (I use 2 monitors so, you can change config for monitors in # Monitors and in #UI)
  - Picom (compositor)
  - Allacritty (terminal)
- - fish shell 
- - starship
  - flameshot (nice tool for screenshots)
  - fonts (Deja vu sans, Firra Code)
 

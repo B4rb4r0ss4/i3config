@@ -110,8 +110,8 @@
     context = ctrl+shift+grave
 
 [urgency_low]
-    frame_color = "#E5E9F0"
-    background = "#3B4252"
+    foreground = "#E5E9F0"
+    frame_color = "#3B4252"
     background = "#2E3440"
     timeout = 10
     icon = ~/.config/dunst/images/notification.png

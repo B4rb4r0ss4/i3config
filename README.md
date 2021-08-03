@@ -14,7 +14,7 @@ My current i3wm setup based on Nord theme (https://www.nordtheme.com/)
  - Picom (compositor)
  - Alacritty (terminal)
  - flameshot (nice tool for screenshots)
- - fonts (Deja vu sans, Firra Code)
+ - fonts (Deja vu sans, Fira Code)
 
 
  

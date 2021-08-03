@@ -1,7 +1,6 @@
 ## i3config
-My current i3wm setup based on Nord theme
-(https://www.nordtheme.com/)
-\n
+My current i3wm setup based on Nord theme (https://www.nordtheme.com/)__
+
 ![alt text](https://github.com/StodolkaLukasz/i3config/blob/main/Photos/1.png?raw=true)
 ![alt text](https://github.com/StodolkaLukasz/i3config/blob/main/Photos/2.png?raw=true)
 ![alt text](https://github.com/StodolkaLukasz/i3config/blob/main/Photos/3.png?raw=true)

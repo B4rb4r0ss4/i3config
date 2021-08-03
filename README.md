@@ -6,7 +6,7 @@ My current i3wm setup based on Nord theme (https://www.nordtheme.com/)
 ![alt text](https://github.com/StodolkaLukasz/i3config/blob/main/Photos/3.png?raw=true)
 
 ## Dependencies 
- - i3wm, i3gaps, xorg
+ - i3wm, i3gaps, xorg, xdotool
  - Polybar, config is included in my repo and it's adi1090x config: (https://github.com/adi1090x/polybar-themes) 
  - Rofi
  - Dunst for notifications, my own config

@@ -1,5 +1,4 @@
 #!/bin/bash
-
 function get_active_window() {
     printf "0x%08x" $(xdotool getactivewindow)
 }

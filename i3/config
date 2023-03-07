@@ -190,15 +190,3 @@ bindsym $mod+shift+x exec bash .config/polybar/cuts/scripts/powermenu.sh
 bindsym $mod+Print exec flameshot gui
 bindsym $mod+b exec firefox
 bindsym $mod+n exec nemo
-
-# Remember emacs > vim 
-#  ,           , 
-# /             \ 
-#((__-^^-,-^^-__)) 
-# `-_---' `---_-' 
-#  `--|o` 'o|--' 
-#     \  `  / 
-#      ): :( 
-#      :o_o: 
-#       "-"
-
